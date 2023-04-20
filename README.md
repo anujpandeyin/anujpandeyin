@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Project**
 
-- 👨‍💻 All of my projects are available at [https://anujpandey.in/projects](anujpandey.in/projects)
+- 👨‍💻 All of my projects are available at [anujpandey.in/projects](https://anujpandey.in/projects)
 
 - 📝 I regularly write articles on [anujpandey.in](anujpandey.in)
 
