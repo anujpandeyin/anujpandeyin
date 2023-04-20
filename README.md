@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [anujpandey.in/projects](https://anujpandey.in/projects)
 
-- 📝 I regularly write articles on [anujpandey.in](anujpandey.in)
+- 📝 I regularly write articles on [anujpandey.in](https://anujpandey.in)
 
 - 📫 How to reach me **hii@anujpandey.in**
 
-- 📄 Know about my experiences [anujpandey.in/resume](anujpandey.in/resume)
+- 📄 Know about my experiences [anujpandey.in/resume](https://anujpandey.in/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
